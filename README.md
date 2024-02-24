@@ -1,2 +1,4 @@
 # first
-this is my first Git hub repository
+This is my first Git Hub repository.
+<br>
+Author: Somya Meena
